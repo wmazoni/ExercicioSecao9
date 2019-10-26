@@ -1,0 +1,11 @@
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\bin\Debug\netcoreapp3.0\ExercicioSecao9.exe
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\bin\Debug\netcoreapp3.0\ExercicioSecao9.deps.json
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\bin\Debug\netcoreapp3.0\ExercicioSecao9.runtimeconfig.json
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\bin\Debug\netcoreapp3.0\ExercicioSecao9.runtimeconfig.dev.json
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\bin\Debug\netcoreapp3.0\ExercicioSecao9.dll
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\bin\Debug\netcoreapp3.0\ExercicioSecao9.pdb
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\obj\Debug\netcoreapp3.0\ExercicioSecao9.csprojAssemblyReference.cache
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\obj\Debug\netcoreapp3.0\ExercicioSecao9.AssemblyInfoInputs.cache
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\obj\Debug\netcoreapp3.0\ExercicioSecao9.AssemblyInfo.cs
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\obj\Debug\netcoreapp3.0\ExercicioSecao9.dll
+D:\repositorios\csharp\ExercicioSecao9\ExercicioSecao9\obj\Debug\netcoreapp3.0\ExercicioSecao9.pdb
